@@ -1,3 +1,0 @@
-  This subdirectory will contain useful files, scripts, etc...
-    TODO
-     -add the following: monitors on/off for windows, add vrpn, add the vrmanager config file for unity
