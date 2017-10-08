@@ -1,1 +1,1 @@
-/*Directory for Dusten's Projects*/
+Directory for Dusten's Projects
