@@ -1,3 +1,4 @@
-This directory will contain usefull files for the visbox enviroment
- 
- Examples: VRPN, Monitors ON/OFF, Visbox config file for unity, etc...
+This directory contains usefull files for the visbox enviromen:
+VRPN
+Monitors OFF/ON
+MiddleVR Config for Visbox in Unity
