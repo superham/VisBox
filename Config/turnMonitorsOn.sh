@@ -1,0 +1,3 @@
+#WRITTEN FOR CENT OS TO BE USED WITH VISBOX
+ttys 9600
+echo PWR ON > /dev/sttyS0
