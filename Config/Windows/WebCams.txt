@@ -1,0 +1,7 @@
+WEBCAMS:
+DCS-5020L (The webcam that looks like a sphere)
+	-Address is:httpL//192.168.0.20
+	-Account name:admin
+	-password:xxxxxx
+
+	-Note: This webcam is only set up for local view(only from the visbox computer).
