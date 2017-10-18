@@ -1,4 +1,3 @@
-#TO BE USED IN WINDOWS FOR VISBOX
 @echo off
 @color f0
 
