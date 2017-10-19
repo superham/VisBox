@@ -1,4 +1,4 @@
-#VisBox
+#  VisBox
 
 
 This repository contains useful files and scripts for Valparaiso Universities Virtual Reality Suite.
