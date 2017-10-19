@@ -1,1 +1,1 @@
-This directory contains usefull OS specific files for the visbox enviroment.
+This directory contains usefull configuration OS specific files for the visbox enviroment.
